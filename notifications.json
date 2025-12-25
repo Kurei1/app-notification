@@ -12,5 +12,11 @@
         "title": "Pro Tip",
         "message": "Did you know you can now customize the buffer size for even lower latency? check the settings.",
         "type": "info"
+    },
+    {
+        "id": "tip_2",
+        "title": "test notification",
+        "message": "shombug lombug suiiiiiiiiiiiiii.",
+        "type": "info"
     }
 ]
