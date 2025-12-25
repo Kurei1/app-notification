@@ -1,4 +1,10 @@
 [
+     { 
+    "id": "welcome_v1", 
+    "title": "Welcome", 
+    "message": "AudioSync is ready to use.", 
+    "type": "info" 
+    },
     {
         "id": "update_v2.5",
         "title": "New Version Available",
