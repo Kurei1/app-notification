@@ -24,5 +24,11 @@
         "title": "test notification",
         "message": "shombug lombug suiiiiiiiiiiiiii.",
         "type": "info"
+    },
+     {
+        "id": "tip_3",
+        "title": "test notification2",
+        "message": "is it working ?.",
+        "type": "info"
     }
 ]
