@@ -48,5 +48,11 @@
         "title": "test notification",
         "message": "for sure.",
         "type": "info"
-    }
+    },
+     {
+        "id": "tip_7",
+        "title": "test notification",
+        "message": "muted.",
+        "type": "info"
+    },
 ]
