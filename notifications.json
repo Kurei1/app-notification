@@ -60,5 +60,17 @@
         "title": "test notification",
         "message": "unmuted",
         "type": "info"
+    },
+     {
+        "id": "tip_9",
+        "title": "test notification",
+        "message": "new",
+        "type": "info"
+    },
+     {
+        "id": "tip_10",
+        "title": "test notification",
+        "message": "noti",
+        "type": "info"
     }
 ]
